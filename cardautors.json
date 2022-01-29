@@ -1,0 +1,50 @@
+[{
+    "id": 1,
+    "titulo": "Lo mejor antes de dormir",
+    "srcimg": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://mumablue.com/blog/wp-content/uploads/2020/12/Cuentos-para-dormir-ni%C3%B1os.jpg",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Así, los peques se duermen al mismo tiempo que despierta en ellos el amor por los relatos y la lectura desde que son pequeños. ",
+    "url": "https://mumablue.com/blog/cuentos-infantiles-para-dormir-cortos-y-tranquilos/"
+},
+{
+    "id": 2,
+    "titulo": "Cuento de gnomos para niños",
+    "srcimg": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://mumablue.com/blog/wp-content/uploads/2021/11/Umvyn-el-gnomo-gru%C3%B1%C3%B3n-2.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Un relato que contiene un importante mensaje acerca de la actitud ante la vida.",
+    "url": "https://mumablue.com/blog/cuento-de-gnomos-para-ninos-audiocuento-gratis/"
+},
+{
+    "id": 3,
+    "titulo": "Cuento de brujas",
+    "srcimg": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://mumablue.com/blog/wp-content/uploads/2021/06/Cuento-bruja-buena.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "La brujita Fuegoazul un cuento donde la el hecho de ser diferente a los demás no significa ser inferior.",
+    "url": "https://mumablue.com/blog/cuento-de-brujas-para-ninos-gratis-audiocuento/"
+},
+{
+    "id": 4,
+    "titulo": "Cuento de Hadas",
+    "srcimg": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://mumablue.com/blog/wp-content/uploads/2020/12/El-hada-del-invierno_.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Un relato en el que las hadas no siempre son buenas… aunque acaben arrepintiéndose.",
+    "url": "https://mumablue.com/blog/cuento-de-hadas-para-leer-a-los-ninos/"
+},
+{
+    "id": 5,
+    "titulo": "Los Hermanos Grimm ",
+    "srcimg": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://mumablue.com/blog/wp-content/uploads/2021/01/La-serpiente-blanca-2.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Este cuento de Hermanos Grimm poco conocido es una adaptación para leer a los niños.",
+    "url": "https://mumablue.com/blog/cuento-de-hermanos-grimm-poco-conocido/"
+},
+{
+    "id": 6,
+    "titulo": "La Princesa y el Dragón",
+    "srcimg": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_500/https://mumablue.com/blog/wp-content/uploads/2020/11/La-princesa-y-el-drag%C3%B3n.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Aquí tienes un cuento de princesas para leer a los niños, corto, con valores y lleno de aventuras para hacer volar la imaginación.",
+    "url": "https://mumablue.com/blog/cuento-de-princesas-para-leer-a-los-ninos/"
+}
+
+]
